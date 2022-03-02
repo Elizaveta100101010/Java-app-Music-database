@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<musicList>
+    <music concerts="10 концертов" genre="Rap-Rock" group="Anacondaz" hits="#10" id="1" members="Сергей Карамушкин Артём Хорев Илья Погребняк Евгений Форманенко Тимур Есетов Евгений Стадниченко" year="2009"/>
+    <music concerts="22 концерта" genre="Pop-Music" group="Кис-кис" hits="#20" id="2" members="Софья Сомусева Алина Олешева Юрий Заслонов Сергей Иванов" year="2018"/>
+    <music concerts="22 концерта" genre="Alternative hip-hop" group="Twenty One Pilots" hits="#21" id="3" members="Тайлер Джозеф Джош Дан" year="2009"/>
+    <music concerts="7 концертов" genre="Glam-Rock" group="Maneskin" hits="#11" id="4" members="Дамиано Давид Виктория Де Анжелис Томас Раджи Итан Торкио" year="2016"/>
+    <music concerts="45 концертов" genre="KPOP" group="BTS" hits="#1" id="5" members="Чин Сюга Джей-Хоуп RM Чимин Ви Джонгук" year="2013"/>
+    <music concerts="40 концертов" genre="KPOP" group="BlackPink" hits="#2" id="6" members="Джису Дженни Розэ Лиса" year="2016"/>
+    <music concerts="17 концертов" genre="Rave" group="Little Big" hits="#19" id="7" members="Илья Прусикин Сергей Макаров Софья Таюрская Антон Лиссов" year="2013"/>
+    <music concerts="13 концертов" genre="Pop-Rock" group="Френдзона" hits="#15" id="8" members="Мэйк Лав Кроки Бой Мэйби Бэйби" year="2018"/>
+    <music concerts="23 концерта" genre="Synth-Punk" group="Пошлая Молли" hits="#9" id="9" members="Кирилл Тимошенко Дмитрий Гончаренко Константин Пыжов Павел Холодянский" year="2016"/>
+    <music concerts="5 концертов" genre="Folk-Punk" group="The Hatters" hits="#16" id="10" members="Юрий Музыченко Павел Личадеев Александр «Кикир» Анисимов Дмитрий Вечеринин Анна Музыченко" year="2016"/>
+    <music concerts="50 концертов" genre="Hip-Hop" group="KReeD" hits="#3" id="11" members="Егор Крид" year="2011"/>
+    <music concerts="42 концертов" genre="Experimental music" group="IC3PEAK" hits="#15" id="12" members="Анастасия Креслина Николай Костылев" year="2013"/>
+    <music concerts="20 концертов" genre="Indie-Rock" group="Imagine Dragons" hits="#52" id="13" members="Дэн Рейнольдс Бэн МакКи Уэйн Сермон Дэн Платцман" year="2008"/>
+    <music concerts="15 концертов" genre="Pop-music" group="2Маши" hits="#22" id="14" members="Мария Зайцева  Мария Шейх" year="2015"/>
+    <music concerts="30 концертов" genre="Hip-Hop" group="Хлеб" hits="#17" id="15" members="Денис Кукояка Александр Шулико Кирилл Трифонов" year="2013"/>
+    <music concerts="10 концертов" genre="Abstract Hip-Hop" group="Кровосток" hits="#43" id="16" members="Антон Обвальщик Фельдман Фантомас 2000" year="2005"/>
+    <music concerts="15 концертов" genre="Hip-Hop" group="Каста" hits="#34" id="17" members="Влади Шым Хамиль Змей" year="2005"/>
+    <music concerts="23 концерта" genre="Disco" group="Cream Soda" hits="#33" id="18" members="Дмитрий Нова Илья Гадаев Анна Романовская" year="2012"/>
+    <music concerts="33 концерта" genre="Pop-Punk" group="Нервы" hits="#18" id="19" members="&#9;Евгений Мильковский Роман Булахов Алексей Бочкарёв Дмитрий Клочков" year="2010"/>
+    <music concerts="16 концертов" genre="Сhanson" group="Аффинаж" hits="#37" id="20" members="&#9;Михаил Калинин (Эм Калинин) Сергей Шиляев (Сергей Сергеич) Александр Евдокимов (Саша Ом) Александр Корюковец Ричард Старков" year="2012"/>
+</musicList>

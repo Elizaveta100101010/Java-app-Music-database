@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<musicList>
+    <music concerts="1 концерт" genre="Pop-Music" group="Кис-кис" hits="#20" id="1" members="Софья Сомусева Алина Олешева Юрий Заслонов Сергей Иванов" year="2018"/>
+    <music concerts="2 концерта" genre="Alternative hip-hop" group="Twenty One Pilots" hits="#21" id="2" members="Тайлер Джозеф Джош Дан" year="2009"/>
+    <music concerts="3 концерта" genre="Glam-Rock" group="Maneskin" hits="#3" id="3" members="Дамиано Давид Виктория Де Анжелис Томас Раджи Итан Торкио" year="2016"/>
+    <music concerts="2 концерта" genre="KPOP" group="BTS" hits="#1" id="4" members="Чин Сюга Джей-Хоуп RM Чимин Ви Джонгук" year="2013"/>
+    <music concerts="3 концерта" genre="KPOP" group="BlackPink" hits="#2" id="5" members="Джису Дженни Розэ Лиса" year="2016"/>
+    <music concerts="2 концерта" genre="Rave" group="Little Big" hits="#19" id="6" members="Илья Прусикин Сергей Макаров Софья Таюрская Антон Лиссов" year="2013"/>
+    <music concerts="4 концерта" genre="Pop-Rock" group="Френдзона" hits="#15" id="7" members="Мэйк Лав Кроки Бой Мэйби Бэйби" year="2018"/>
+    <music concerts="3 концерта" genre="Synth-Punk" group="Пошлая Молли" hits="#9" id="8" members="Кирилл Тимошенко Дмитрий Гончаренко Константин Пыжов Павел Холодянский" year="2016"/>
+    <music concerts="3 концерта" genre="Folk-Punk" group="The Hatters" hits="#16" id="9" members="Юрий Музыченко Павел Личадеев Александр «Кикир» Анисимов Дмитрий Вечеринин Анна Музыченко" year="2016"/>
+    <music concerts="2 концерта" genre="Hip-Hop" group="KReeD" hits="#4" id="10" members="Егор Крид" year="2011"/>
+</musicList>
